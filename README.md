@@ -4,14 +4,14 @@ Skin Disease Detection using Deep Neural Network
 
 Includes:
 
-##ADD Document
+- ADD Document
 
-##PSD Document
+- PSD Document
 
-##Presentation Video
+- Presentation Video
 
-##Poster
+- Poster
 
-##Source Code
+- Source Code
 
-##Thesis
+- Thesis
