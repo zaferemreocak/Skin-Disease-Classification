@@ -2,9 +2,9 @@
 
 Includes:
 
-- ADD Document
+- Analysis & Design Document (ADD)
 
-- PSD Document
+- Project Spesification Document (PSD)
 
 - Presentation Video
 
