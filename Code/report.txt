@@ -1,0 +1,16 @@
+Accurancy : 0.0011119017 benigne---->Attribute : Conv , Pooling , Conv , Pooling , Flatten ,Fully Conn--> Correct Result :Benigne
+
+Accurancy : 1.0 Melignant---->Attribute : Conv , Pooling , Conv , Pooling , Conv , Pooling , Flatten ,Fully Conn, Correct Result :Melignant
+
+Accurancy : 0.9999542 Melignant---->Attribute : Conv , Conv , Pooling , Conv , Conv , Pooling , Conv , Conv , Pooling , Flatten ,Fully Conn, Correct Result :Melignant
+
+Accurancy : 0.0009555093 benigne---->Attribute : Conv , Conv , Pooling , Conv , Conv , Pooling , Conv , Conv , Pooling , Flatten ,Fully Conn, Correct Result :Benigne Epoch: 10
+
+Accurancy : 0.0011119017 benigne---->Attribute : Conv , Conv , Pooling , Conv , Conv , Pooling , Conv , Conv , Pooling , Flatten ,Fully Conn, Correct Result :Benigne Epoch: 10
+
+Accurancy : 0.0009555093 benigne---->Attribute : Conv , Conv , Pooling , Conv , Conv , Pooling , Conv , Conv , Pooling , Flatten ,Fully Conn, Correct Result :Benigne Epoch: 10
+
+Accurancy : 0.0---->Attribute : Conv x 2 , Pooling , Conv x 2 , Pooling , Conv x 2 , Pooling , Flatten ,Fully Conn
+
+Accurancy : 1.0---->Attribute : Conv x 2 , Pooling , Conv x 2 , Pooling , Conv x 2 , Pooling , Flatten ,Fully Conn
+
