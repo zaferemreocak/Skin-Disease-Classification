@@ -1,6 +1,4 @@
-# CSE 497 & 498
-
-Skin Disease Detection using Deep Neural Network
+# Skin Disease Detection using Deep Neural Network
 
 Includes:
 
